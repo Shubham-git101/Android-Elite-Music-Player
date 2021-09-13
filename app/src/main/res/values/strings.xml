@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Elite</string>
+    <string name="song_is_loading">Song is loading.....</string>
+    <string name="_5_15">5:15</string>
+    <string name="_0_20">0:20</string>
+    <string name="todo">TODO</string>
+</resources>
