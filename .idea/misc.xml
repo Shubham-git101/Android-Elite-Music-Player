@@ -3,16 +3,41 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Owner/AndroidStudioProjects/Elite/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
-        <entry key="..\:/Users/Owner/AndroidStudioProjects/Elite/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
-        <entry key="..\:/Users/Owner/AndroidStudioProjects/Elite/app/src/main/res/drawable/ic_music.xml" value="0.2203125" />
-        <entry key="..\:/Users/Owner/AndroidStudioProjects/Elite/app/src/main/res/drawable/ic_pause.xml" value="0.2203125" />
-        <entry key="..\:/Users/Owner/AndroidStudioProjects/Elite/app/src/main/res/drawable/ic_play.xml" value="0.2203125" />
-        <entry key="..\:/Users/Owner/AndroidStudioProjects/Elite/app/src/main/res/drawable/ic_rewind.xml" value="0.2203125" />
-        <entry key="..\:/Users/Owner/AndroidStudioProjects/Elite/app/src/main/res/drawable/list_bg.xml" value="0.2203125" />
-        <entry key="..\:/Users/Owner/AndroidStudioProjects/Elite/app/src/main/res/layout/activity_main.xml" value="0.19" />
-        <entry key="..\:/Users/Owner/AndroidStudioProjects/Elite/app/src/main/res/layout/activity_player.xml" value="0.25" />
-        <entry key="..\:/Users/Owner/AndroidStudioProjects/Elite/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable-v24/round_back.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/gradient_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_chevron_left.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_menu.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_more.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_next.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_pause.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_play.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_previous.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_repeat.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_repeat_off.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_repeat_on.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_shuffle.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_shuffle_off.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/ic_shuffle_on.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/main_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/round_back_blue.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/splash_screen.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/tab_indicator.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/drawable/white_color.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/layout/activity_album_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/layout/activity_player.xml" value="0.22" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/layout/album_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/layout/fragment_album.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/layout/fragment_blank.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/layout/fragment_now_playing_bottom.xml" value="0.22" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/layout/fragment_songs.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/layout/music_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/layout/toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/menu/popup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/menu/search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/menu/style.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EliteMusic/app/src/main/res/mipmap-anydpi-v26/music.xml" value="0.17314814814814813" />
       </map>
     </option>
   </component>

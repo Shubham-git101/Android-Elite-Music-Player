@@ -4,15 +4,38 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#1E6CD6"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <ListView
-        android:id="@+id/listview"
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_layout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:divider="@android:color/transparent"
-        android:dividerHeight="10.sp"
-        android:padding="9dp" />
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        app:tabIndicator="@drawable/tab_indicator"
+        app:tabIndicatorColor="#038FFF"
+        app:tabIndicatorFullWidth="true"
+        app:tabIndicatorGravity="center"
+        app:tabIndicatorHeight="40dp"
+        app:tabTextColor="@color/colorAccent" />
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tab_layout"
+        android:layout_alignBottom="@+id/frag_bottom" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/frag_bottom">
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:name="com.example.elitemusic.NowPlayingFragmentBottom"
+            tools:layout="@layout/fragment_now_playing_bottom"/>
+    </FrameLayout>
 
 </RelativeLayout>
